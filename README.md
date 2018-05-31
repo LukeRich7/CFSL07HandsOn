@@ -1,2 +1,2 @@
-# CFSL07HandsOn
-WozU Coding From Scratch Lesson 7
+# FEFoundL07HandsOn
+WozU Frontend Foundations Lesson 7
